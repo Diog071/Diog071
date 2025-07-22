@@ -2,9 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Diogo Araújo, Tenho 22 anos e sou estudante de Análise e Desenvolvimento de Software pela Anhanguera, em Taubaté, São Paulo. Apaixonado por tecnologia, estou me especializando em desenvolvimento fullstack, com foco na criação de aplicações completas, tanto no front-end quanto no back-end.
+Olá me chamo Diogo Araújo, Tenho 22 anos e sou estudante de Análise e Desenvolvimento de Software pela Anhanguera, em Taubaté, São Paulo. Apaixonado por tecnologia, estou me especializando em desenvolvimento fullstack, com foco na criação de aplicações completas, tanto no front-end quanto no back-end.
 <p align="left">
-        />
+       
     </a> 
     <a href="https://github.com/Diog071?tab=repositories&sort=stargazers">
         <img 
