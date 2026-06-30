@@ -13,7 +13,7 @@ Sou apaixonado por tecnologia e estou em constante evolução nas áreas de dese
         <img 
             alt="Repositórios"
             title="Repositórios GitHub"
-            src="https://custom-icon-badges.demolab.com/github/repo?color=55960c&style=for-the-badge&logo=github&label=Repositórios"
+            src="https://custom-icon-badges.demolab.com/github/repo?color=55960c&style=for-the-badge&logo=github&label= 📁 Repositórios"
         />
     </a>
 </p>
